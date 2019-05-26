@@ -18,7 +18,7 @@ function usage () {
 }
 
 WSO2_SUBSCRIPTION_USERNAME='fabio@wso2.com'
-WSO2_SUBSCRIPTION_PASSWORD='WSaf0302*'
+WSO2_SUBSCRIPTION_PASSWORD=''
 ADMIN_PASSWORD='admin'
 
 # capture named arguments
