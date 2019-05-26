@@ -81,6 +81,3 @@ sleep 1s
 ${KUBECTL} config set-context $(${KUBECTL} config current-context) --namespace=default
 
 echoBold 'Finished'
-
-
-echoBold 'Finished'
